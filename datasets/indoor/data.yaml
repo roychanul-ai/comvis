@@ -1,0 +1,19 @@
+
+path: D:/Kuliah/Comvis/indoor-distance-estimation/datasets/indoor
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 10
+names:
+  0: bed
+  1: chair
+  2: door
+  3: door-frame
+  4: shower
+  5: sink
+  6: sofa
+  7: stairs
+  8: table
+  9: toilet
